@@ -1,0 +1,4 @@
+/*
+you will be provided an array of numbers. you have to return array of prime numbers from that input array. 
+
+*/
